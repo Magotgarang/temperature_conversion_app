@@ -1,16 +1,29 @@
-# projects
+# Temperature Converter App
 
-A new Flutter project.
+## Overview
+The **Temperature Converter App** is a simple mobile application built using Flutter. It allows users to convert temperatures between Fahrenheit and Celsius. The app provides a clean and intuitive user interface, making temperature conversion fast and easy. Users can input a temperature, choose a conversion type, and view the result instantly. Additionally, the app keeps a history of recent conversions.
 
-## Getting Started
+## Features
+- Convert temperatures from Fahrenheit to Celsius and vice versa.
+- Input temperature via a text field.
+- Display conversion results with two decimal precision.
+- Keep a history of all previous conversions.
+- Responsive UI that works in both portrait and landscape modes.
 
-This project is a starting point for a Flutter application.
+## Screenshots
+[https://drive.google.com/file/d/1omXvG_5VqF7xEoTezZPuWAIeJpd2vym8/view?usp=sharing]
 
-A few resources to get you started if this is your first Flutter project:
+## Installation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. **Clone the repository:**
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+   ```bash
+   git clone https://https://github.com/Magotgarang/temperature_conversion_app.gitgithub.com/Magotgarang/temperature_converter_app.git
+   cd temperature_converter_app
+
+## Contact
+- For any queries or suggestions, feel free to reach out to the project maintainer:
+
+- Name: Magot Garang Guut Alith
+- Email: m.guut@alustudent.com
+- GitHub: Magotgarang
